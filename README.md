@@ -5,11 +5,11 @@
 
 This is an SMS library for Flutter.
 
-**It only supports Android for now.** iOS and MMS is not in the scope of this project.
+**It only supports Android for now.** iOS is in progress( if someone can pull iOS code I add it to repository)
 
 ## Extra
 
-I have forked this repository so I can improve and add my own functionality.
+I have forked this repository so I can improve and add my own functionality, add iOS support and cleanup repository.
 
 ## Getting Started
 
